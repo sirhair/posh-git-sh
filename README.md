@@ -91,6 +91,7 @@ The prompt also lets you know if you are currently in the middle of a cherry-pic
 Try it out and let me know what you think!
 
 Simplified Prompt
+
 -----------------
 To get the same prompt above, but with a shorter path that shows only the current folder change \w to \W
 
