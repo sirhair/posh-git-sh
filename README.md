@@ -90,6 +90,13 @@ To get the above prompt display, I have the following in my `.bashrc`:
 The prompt also lets you know if you are currently in the middle of a cherry-pick, a merge, a rebase, etc.
 Try it out and let me know what you think!
 
+Simplified Prompt
+=====================
+To get just a shorter path that shows only the current folder change \w to \W
+
+        export PROMPT_COMMAND='__git_ps1 "\\[\[\e[0;32m\]\u@\h \[\e[0;33m\]\W" " \[\e[1;34m\]\n\$\[\e[0m\] ";'$PROMPT_COMMAND
+
+
 Configuration Options
 =====================
 
