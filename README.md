@@ -101,6 +101,7 @@ Will change the prompt from showing
 
         user@~/long/directory/path ...
 to
+
         user@path ...
 
 
